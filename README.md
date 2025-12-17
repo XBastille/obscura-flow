@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" alt="ObscuraFlow" width="400"/>
+  <img src="public/logo.png" alt="ObscuraFlow" width="700"/>
 </p>
 
 <p align="center">
