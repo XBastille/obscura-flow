@@ -1,0 +1,5 @@
+{
+  "name": "Obscura-Flow",
+  "description": "A minimalist, dark-themed neural network architecture visualizer and PyTorch code generator.",
+  "requestFramePermissions": []
+}
