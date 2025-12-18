@@ -26,21 +26,16 @@ const App = () => {
         </div>
       </header>
 
-      {/* Main Workspace */}
       <main className="flex-1 flex overflow-hidden">
-        {/* Left: Components Palette */}
         <LayerPalette />
 
-        {/* Center: Canvas */}
         <div className="flex-1 relative">
           <FlowCanvas />
         </div>
 
-        {/* Right: Properties */}
         <PropertyInspector />
       </main>
 
-      {/* Modals */}
       <CodeExportModal isOpen={isExportOpen} onClose={() => setExportOpen(false)} />
     </div>
   );
