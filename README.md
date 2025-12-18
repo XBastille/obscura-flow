@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://obscura-flow.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?style=flat-square&logo=vercel" alt="Live Demo"/></a>
   <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat-square&logo=react" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Vite-6.2-646CFF?style=flat-square&logo=vite" alt="Vite"/>
@@ -100,7 +101,7 @@ See [USAGE.md](USAGE.md) for a guide on how to use ObscuraFlow, including step-b
 ---
 
 <p align="center">
-  <b>If you find this project useful, consider giving it a star — it helps others discover it!</b>
+  <b>If you find this project useful, consider giving it a ⭐ — it helps others discover it!</b>
 </p>
 
 ## License
